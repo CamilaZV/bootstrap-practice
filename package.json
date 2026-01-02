@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-personalizzato",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "sass ASSETS/SCSS/custom.scss ASSETS/CSS/custom.css",
+    "watch": "sass --watch ASSETS/SCSS/custom.scss ASSETS/CSS/custom.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.80.7"
+  }
+}
