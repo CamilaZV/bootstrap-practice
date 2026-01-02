@@ -1,34 +1,27 @@
-# Bootstrap Practice Web Page
+# Bootstrap Practice
 
-This project is a simple web page created to practice **Bootstrap** during a **Front-End development course**.
+This is a simple web page made to practice **Bootstrap**.
 
-The focus of this project is learning and practice, not a production application.
+This project is for learning and practice only.
 
-## 🎯 Project Goal
+## 🎯 Goal
 
-The main goals of this project are:
 - Practice Bootstrap basics
-- Use the grid system and breakpoints
-- Build responsive layouts
+- Use grid and columns
+- Create a responsive page
 - Improve HTML structure
-- Learn how to use Bootstrap components
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies
 
 - HTML5
 - Bootstrap 5
 
-No JavaScript frameworks or backend were used.
+## 📱 Features
 
-## 📱 Main Features
-
-- Responsive design for different screen sizes
-- Use of Bootstrap Grid System
-- Bootstrap components such as:
-  - Navbar
-  - Cards
-  - Buttons
-- Simple and clean layout
+- Responsive layout
+- Bootstrap grid system
+- Basic Bootstrap components
+- Simple design
 
 ## 📚 Learning Context
 
